@@ -40,15 +40,15 @@
 
 > For Termux User
 
-+ `apt update -y`
-+ `apt upgrade -y`
-+ `apt install git -y`
-+ `termux-setup-storage`
-+ `git clone https://github.com/MrHacker-X/ArtifyX.git/`
-+ `cd ArtifyX`
-+ `chmod +x *`
-+ `bash setup.sh`
-+ `python artifyx.py`
++ ```apt update -y```
++ ```apt upgrade -y```
++ ```apt install git -y```
++ ```termux-setup-storage```
++ ```git clone https://github.com/MrHacker-X/ArtifyX.git/```
++ ```cd ArtifyX```
++ ```chmod +x *```
++ ```bash setup.sh```
++ ```python artifyx.py```
 
 ## Single Line Installation
 
