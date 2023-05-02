@@ -57,6 +57,7 @@ apt update -y && apt upgrade -y && apt install git -y && termux-setup-storage &&
 ```
 
 ## Note
++ Generated Image will save into your internal storage and path is `/sdcard/ArtifyX`
 + To exit from tool just type `exit` or `bye` and hit ENTER. You will get exit from prompt.
 
 ## Screenshot
