@@ -26,7 +26,8 @@
 
 > Python3 [package] <br>
 > openai [module]<br>
-> requests [module]
+> requests [module]<br>
+> OpenAI API Key
 
 ## Tested On
 
@@ -48,13 +49,15 @@
 + ```cd ArtifyX```
 + ```chmod +x *```
 + ```bash setup.sh```
+
++ Installation is completed, now you have to configure OpenAI API key.
+
++ `nano config.py`
+
++ Now here put your OpenAI API key between two Quotation mark. After putting save the file by ` ctrl + s ` and close the file by ` ctrl + x ` and done you're ready to use ArtifyX In Your Termux. To run the script use following command.
+
 + ```python artifyx.py```
 
-## Single Line Installation
-
-```
-apt update -y && apt upgrade -y && apt install git -y && termux-setup-storage && git clone https://github.com/MrHacker-X/ArtifyX.git && cd ArtifyX && chmod +x * && bash setup.sh && python artifyx.py
-```
 
 ## Note
 + Generated Image will save into your internal storage and path is `/sdcard/ArtifyX`
