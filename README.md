@@ -70,6 +70,3 @@
 ![photo](https://i.ibb.co/80NTyw3/Screenshot-2023-05-03-01-51-44-735-com-termux.jpg)
 
 ![photo](https://i.ibb.co/F8vTqnc/Screenshot-2023-05-03-01-52-13-218-com-termux.jpg)
-
-><img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=InfoGX&theme=dark"></a>
-<p align="center"><a href="https://github.com/VritraSecz/ScannerX.git/"><img title="ScannerX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=ScannerX&theme=dark"></a>
