@@ -71,12 +71,5 @@
 
 ![photo](https://i.ibb.co/F8vTqnc/Screenshot-2023-05-03-01-52-13-218-com-termux.jpg)
 
-
-## Our another Repository
-
-+ You can check it out
-<p align="center"><a href="https://github.com/VritraSecz/BruteX.git/"><img title="BruteX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=BruteX&theme=dark"></a>
-<p align="center"><a href="https://github.com/VritraSecz/TraceX.git/"><img title="TraceX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=TraceX&theme=dark"></a>
-<p align="center"><a href="https://github.com/VritraSecz/KalnemiX.git/"><img title="KalnemiX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=KalnemiX&theme=dark"></a>
-<p align="center"><a href="https://github.com/VritraSecz/InfoGX.git/"><img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=InfoGX&theme=dark"></a>
+><img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=InfoGX&theme=dark"></a>
 <p align="center"><a href="https://github.com/VritraSecz/ScannerX.git/"><img title="ScannerX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=ScannerX&theme=dark"></a>
