@@ -68,5 +68,3 @@
 ![photo](https://i.ibb.co/KLTYcSR/Screenshot-2023-05-03-01-49-55-990-com-termux.jpg)
 
 ![photo](https://i.ibb.co/80NTyw3/Screenshot-2023-05-03-01-51-44-735-com-termux.jpg)
-
-![photo](https://i.ibb.co/F8vTqnc/Screenshot-2023-05-03-01-52-13-218-com-termux.jpg)
